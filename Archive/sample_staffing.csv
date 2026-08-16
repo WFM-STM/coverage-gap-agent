@@ -1,0 +1,93 @@
+date,interval_start,department,skill,forecasted_staff,scheduled_staff
+2026-08-10,08:00,Client Support,Phone,8,5
+2026-08-10,08:00,Client Support,Chat,14,8
+2026-08-10,08:00,Client Support,Email,13,12
+2026-08-10,08:00,Trading Ops,Phone,14,13
+2026-08-10,08:00,Trading Ops,Chat,25,19
+2026-08-10,08:00,Onboarding,Chat,21,21
+2026-08-10,08:00,Onboarding,Email,7,3
+2026-08-10,08:00,Fraud & Risk,Phone,15,15
+2026-08-10,08:00,Fraud & Risk,Email,9,9
+2026-08-10,08:00,Tech Support,Phone,20,26
+2026-08-10,08:00,Tech Support,Chat,23,N/A
+2026-08-10,08:00,Tech Support,Email,15,16
+2026-08-10,08:30,Client Support,Phone,19,17
+2026-08-10,08:30,Client Support,Chat,16,
+2026-08-10,08:30,Client Support,Email,14,15
+2026-08-10,,Client Support,Phone,,
+2026-08-10,08:30,Trading Ops,Phone,18,17
+2026-08-10,08:30,Trading Ops,Chat,14,11
+2026-08-10,08:30,Onboarding,Chat,25,25
+2026-08-10,08:30,Onboarding,Email,21,21
+2026-08-10,08:30,Fraud & Risk,Phone,9,14
+2026-08-10,08:30,Fraud & Risk,Email,21,22
+2026-08-10,08:30,Tech Support,Phone,18,13
+2026-08-10,08:30,Tech Support,Chat,21,20
+2026-08-10,08:30,Tech Support,Email,30,31
+2026-08-10,09:00,Client Support,Phone,24,23
+2026-08-10,09:00,Client Support,Chat,28,27
+2026-08-10,09:00,Client Support,Email,10,5
+2026-08-10,09:00,Trading Ops,Phone,13,13
+2026-08-10,09:00,Trading Ops,Chat,25,
+2026-08-10,09:00,Onboarding,Chat,16,12
+2026-08-10,09:00,Onboarding,Email,12,12
+2026-08-10,09:00,Fraud & Risk,Phone,9,
+2026-08-10,09:00,Fraud & Risk,Email,22,27
+2026-08-10,09:00,Tech Support,Phone,24,23
+2026-08-10,09:00,Tech Support,Chat,30,37
+2026-08-10,09:00,Tech Support,Email,22,22
+2026-08-10,09:30,Client Support,Phone,17,18
+2026-08-10,09:30,Client Support,Chat,8,6
+2026-08-10,09:30,Client Support,Email,24,24
+2026-08-10,11:00,Fraud & Risk,Email,12,seven
+2026-08-10,09:30,Trading Ops,Phone,24,25
+2026-08-10,09:30,Trading Ops,Chat,21,25
+2026-08-10,09:30,Onboarding,Chat,20,TBD
+2026-08-10,09:30,Onboarding,Email,23,29
+2026-08-10,09:30,Fraud & Risk,Phone,11,11
+2026-08-10,09:30,Fraud & Risk,Email,13,12
+2026-08-10,09:30,Tech Support,Phone,6,4
+2026-08-10,09:30,Tech Support,Chat,13,18
+2026-08-10,09:30,Tech Support,Email,15,16
+2026-08-10,10:00,Client Support,Phone,23,24
+2026-08-10,10:00,Client Support,Chat,23,18
+2026-08-10,10:00,Client Support,Email,12,12
+2026-08-10,10:00,Trading Ops,Phone,22,23
+2026-08-10,10:00,Trading Ops,Chat,7,8
+2026-08-10,10:00,Onboarding,Chat,16,15
+2026-08-10,10:00,Onboarding,Email,29,28
+2026-08-10,10:00,Fraud & Risk,Phone,20,19
+2026-08-10,10:00,Fraud & Risk,Email,27,28
+2026-08-10,10:00,Tech Support,Phone,22,
+2026-08-10,10:00,Tech Support,Chat,16,15
+2026-08-10,10:00,Tech Support,Email,17,16
+2026-08-10,10:30,Client Support,Phone,21,27
+2026-08-10,10:30,Client Support,Chat,20,14
+2026-08-10,10:30,Client Support,Email,22,21
+2026-08-10,10:30,Trading Ops,Phone,14,14
+2026-08-10,10:30,Trading Ops,Chat,6,0
+2026-08-10,10:30,Onboarding,Chat,23,24
+2026-08-10,10:30,Onboarding,Email,9,8
+2026-08-10,10:30,Fraud & Risk,Phone,18,19
+2026-08-10,10:30,Fraud & Risk,Email,12,7
+2026-08-10,10:30,Tech Support,Phone,26,
+2026-08-10,10:30,Tech Support,Chat,18,17
+2026-08-10,10:30,Tech Support,Email,21,20
+2026-08-10,11:00,Client Support,Phone,12,6
+2026-08-10,11:00,Client Support,Chat,9,10
+2026-08-10,11:00,Client Support,Email,15,
+2026-08-10,11:00,Trading Ops,Phone,17,17
+2026-08-10,11:00,Trading Ops,Chat,26,20
+2026-08-10,11:00,Onboarding,Chat,13,14
+2026-08-10,11:00,Onboarding,Email,10,9
+2026-08-10,11:00,Fraud & Risk,Phone,24,25
+2026-08-10,11:00,Fraud & Risk,Email,16,17
+2026-08-10,11:00,Tech Support,Phone,21,20
+2026-08-10,11:00,Tech Support,Chat,13,16
+2026-08-10,11:00,Tech Support,Email,10,6
+2026-08-10,11:30,Client Support,Phone,17,12
+2026-08-10,11:30,Client Support,Chat,22,23
+2026-08-10,11:30,Client Support,Email,17,17
+2026-08-10,11:30,Trading Ops,Phone,24,23
+2026-08-10,11:30,Trading Ops,Chat,19,22
+2026-08-10,11:30,Onboarding,Chat,19,17
